@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<table width="640px">
   <tr>
     <td align="center"><a href="https://romainricard.fr"><img src="https://avatars.githubusercontent.com/u/7778898?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Romain Ricard</b></sub></a><br /><a href="https://github.com/signalstickers/stickers/commits?author=romainricard" title="Code">💻</a> <a href="#design-romainricard" title="Design">🎨</a></td>
     <td align="center"><a href="https://joshua.dev"><img src="https://avatars.githubusercontent.com/u/441546?v=4?s=42" width="42px;" alt=""/><br /><sub><b>Joshua</b></sub></a><br /><a href="https://github.com/signalstickers/stickers/commits?author=darkobits" title="Code">💻</a> <a href="#infra-darkobits" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
